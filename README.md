@@ -3,15 +3,15 @@
 ## 목차
 
 * [OpenVim 사이트](#OpenVim-사이트)
-* [1. 두 가지 모드, 'Insert' & 'Normal'](#1.-두-가지-모드,-'Insert'-&-'Normal'-(Two-modes,-insert-and-normal))
-* [2. 기본 움직임, h, j, k, l](#2.-기본-움직임-:-h,-j,-k,-l-(Basic-movement-:-h,-j,-k,-l))
-* [3. 단어 움직임, w, e, b](#3.-단어-움직임-:-w,-e,-b-(Word-movement:-w,-e,-b))
+* [1. 두 가지 모드, 'Insert' & 'Normal'](#1.-두-가지-모드,-'Insert'-&-'Normal')
+* [2. 기본 움직임: h, j, k, l](#2.-기본-움직임:-h,-j,-k,-l-(Basic-movement-:-h,-j,-k,-l))
+* [3. 단어 움직임: w, e, b](#3.-단어-움직임:-w,-e,-b-(Word-movement:-w,-e,-b))
 * [4. 숫자 만큼 이동하기](#4.-숫자-만큼-이동하기-(Number-powered-movement))
 * [5. 반복 문자 삽입](#5.-반복-문자-삽입-(Insert-text-repeatedly))
 * [6. 글자 찾기, f and F](#6.-글자-찾기-(Find-a-character,-f-and-F))
 * [7. 짝 지어져 있는 괄호로 이동하기, %](#7.-짝-지어져-있는-괄호로-이동하기-(Go-to-matching-parentheses,-%))
 * [8. 줄의 처음 또는 끝으로 이동하기, 0 and $](#8.-줄의-처음-또는-끝으로-이동하기,-0-and-$-(Go-to-start/end-of-line))
-* [9. 커서에 있는 글자 찾기, * and #](#9.-커서에-있는-글자-찾기-(Find-word-under-cursor,-*-and-#)))
+* [9. 커서에 있는 글자 찾기, * and #](#9.-커서에-있는-글자-찾기-(Find-word-under-cursor,-*-and-#))
 * [10. 제일 첫 번째 줄 또는 제일 마지막 번째 줄, 특정 줄로 이동, g and G](#10.-제일-첫-번째-줄-또는-제일-마지막-번째-줄,-특정-줄로-이동,-g-and-G-(Goto-line,-g-and-G))
 
 </br>
@@ -23,7 +23,7 @@
 ---
 </br>
 
-## 1. 두 가지 모드, 'Insert' & 'Normal' (Two modes, insert and normal)
+## 1. 두 가지 모드, 'Insert' & 'Normal'
 
 ### Insert mode
 
@@ -44,7 +44,7 @@
 ---
 </br>
 
-## 2. 기본 움직임 : h, j, k, l (Basic movement : h, j, k, l)
+## 2. 기본 움직임: h, j, k, l (Basic movement : h, j, k, l)
 
 h : 왼쪽, j : 아래쪽, k : 위쪽, l : 오른쪽
 
@@ -55,7 +55,7 @@ h : 왼쪽, j : 아래쪽, k : 위쪽, l : 오른쪽
 ---
 </br>
 
-## 3. 단어 움직임 : w, e, b (Word movement: w, e, b)
+## 3. 단어 움직임: w, e, b (Word movement: w, e, b)
 
 ### w
 
